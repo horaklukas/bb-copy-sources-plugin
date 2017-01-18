@@ -1,0 +1,33 @@
+{
+  "name": "bb-copy-sources-plugin",
+  "version": "0.1.0",
+  "description": "Plugin for bobril-build which copies sources to defined location",
+  "dependencies": {
+    "bobril-build": "^0.55.5",
+    "commander": "^2.9.0",
+    "ncp": "^2.0.0"
+  },
+  "author": {
+    "name": "Lukas Horak"
+  },
+  "repository": {
+    "url": "https://github.com/horaklukas/bb-copy-sources-plugin.git",
+    "type": "git"
+  },
+  "devDependencies": {},
+  "directories": {},
+  "license": "MIT",
+  "main": "dist/index.js",
+  "typings": "src/index.ts",
+  "maintainers": [
+    {
+      "email": "l.horak@gmc.net",
+      "name": "l.horak"
+    }
+  ],
+  "readme": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --project src/tsconfig.json"
+  }
+}

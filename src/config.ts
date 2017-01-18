@@ -1,0 +1,1 @@
+export const pluginName = 'bb-copy-sources-plugin';
