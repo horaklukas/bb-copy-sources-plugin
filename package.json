@@ -1,6 +1,6 @@
 {
   "name": "bb-copy-sources-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin for bobril-build which copies sources to defined location",
   "dependencies": {
     "bobril-build": "^0.55.5",

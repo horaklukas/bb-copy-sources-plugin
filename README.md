@@ -17,3 +17,6 @@ To enable copying of source files you have to define **destination** in package.
 
 For example when you set as a destination empty directory `C:/test-plugin/` then there will be new directory `C:/test-plugin/src`
 after recompiling.
+
+### How to install or update:
+	bb plugins -i bb-copy-sources-plugin
