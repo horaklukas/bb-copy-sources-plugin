@@ -7,8 +7,9 @@
         "noImplicitAny": false,
         "removeComments": false,
         "moduleResolution": "node",
+        "pretty": true,
         "noLib": false,
-        "outDir": "../dist"
+        "outDir": "./dist"
     },
     "compileOnSave": true
 }

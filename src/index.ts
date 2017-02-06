@@ -1,8 +1,8 @@
-import * as bb from 'bobril-build';
 import * as path from 'path';
 import {ncp} from 'ncp';
 import {log} from './logger';
-import {isEnabled, getDirs} from './enabled';
+import {isEnabled} from './enabled';
+import {getDirs} from './plugin';
 
 //export function afterStartCompileProcess(project) {
 //}

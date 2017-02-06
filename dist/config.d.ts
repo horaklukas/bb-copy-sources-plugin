@@ -1,1 +1,1 @@
-export declare const pluginName: string;
+export declare const pluginName = "bb-copy-sources-plugin";
