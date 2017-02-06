@@ -1,4 +1,7 @@
 # bb-copy-sources-plugin
+
+[![Build Status](https://travis-ci.org/horaklukas/bb-copy-sources-plugin.svg?branch=master)](https://travis-ci.org/horaklukas/bb-copy-sources-plugin)
+
 Plugin for **bobril-build** for copying all files from `src` directory to any other directory after each interactive recompile.
 
 To enable copying of source files you have to go through two steps:
